@@ -1,0 +1,1 @@
+export {HomeSearchComponent} from './HomeSearchComponent';

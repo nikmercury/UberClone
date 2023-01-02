@@ -1,0 +1,1 @@
+export {FavoriteDestination} from './FavoriteDestinationComponent';

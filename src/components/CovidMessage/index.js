@@ -1,0 +1,1 @@
+export {CovidMessageComponent} from './CovidMessageComponent';
